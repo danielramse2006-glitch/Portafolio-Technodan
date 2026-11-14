@@ -1,0 +1,78 @@
+{
+  "id": "casa-bajio",
+  "source": "https://casa-bajio.vercel.app/",
+  "date": "2026-11-14T03:00:02.047Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T02:59:41.868Z",
+      "width": 1440,
+      "height": 900,
+      "score": 70,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T02:59:53.376Z",
+      "width": 1440,
+      "height": 10581,
+      "score": 57,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T02:59:58.583Z",
+      "width": 1180,
+      "height": 2411,
+      "score": 62,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T03:00:00.840Z",
+      "width": 390,
+      "height": 844,
+      "score": 30,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T02:59:41.868Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T02:59:41.868Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://casa-bajio.vercel.app/",
+      "date": "2026-11-14T02:59:41.868Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "parea-restaurante",
+  "source": "https://technodanbocetos.vercel.app/parea/parea.html",
+  "date": "2026-11-14T02:59:20.796Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:58:56.439Z",
+      "width": 1440,
+      "height": 900,
+      "score": 67,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:59:09.871Z",
+      "width": 1440,
+      "height": 12515,
+      "score": 58,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:59:17.505Z",
+      "width": 1240,
+      "height": 1725,
+      "score": 60,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:59:19.400Z",
+      "width": 390,
+      "height": 844,
+      "score": 31,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:58:56.439Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:58:56.439Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+      "date": "2026-11-14T02:58:56.439Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

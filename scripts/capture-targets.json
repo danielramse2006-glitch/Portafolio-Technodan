@@ -1,0 +1,128 @@
+[
+  {
+    "id": "bc-boutique-cuen",
+    "url": "https://www.bcboutiquecuenstore.com/",
+    "identity": "boutiquecuen|boutique cuen",
+    "publish": true,
+    "section": "section:has-text(\"BC STREET EDIT\")",
+    "flow": "a:has-text(\"Catálogo\")",
+    "product": "a[href*=\"/producto/\"]"
+  },
+  {
+    "id": "robut-ing",
+    "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+    "identity": "revista polit.cnica",
+    "publish": true,
+    "section": "p:has-text(\"proyecto ROBUT-ING\")",
+    "flow": "",
+    "evidence": true
+  },
+  {
+    "id": "modabelle-raiz",
+    "url": "https://modabelle.mx/",
+    "identity": "modabelle|construcci.n"
+  },
+  {
+    "id": "parea",
+    "url": "https://pareamx.com/",
+    "identity": "parea",
+    "section": "section:has-text(\"New Arrivals\")",
+    "flow": "a[href*=\"/products/\"]"
+  },
+  {
+    "id": "cafetto-mexico",
+    "url": "https://cafettomx.com/",
+    "identity": "cafetto",
+    "section": "section:has-text(\"Un producto para cada situación\")",
+    "flow": "main a[href*=\"productos\"]"
+  },
+  {
+    "id": "cafetto-tienda",
+    "url": "https://tiendaenlinea.cafettomx.com/",
+    "identity": "cafetto",
+    "flow": "a[href*=\"/product/\"],a[href*=\"/producto/\"]"
+  },
+  {
+    "id": "caffeto-vercel",
+    "url": "https://caffeto.vercel.app/",
+    "identity": "caffeto",
+    "section": "section:has-text(\"Nuestros Cafés\")"
+  },
+  {
+    "id": "cecy-bon-bakes",
+    "url": "https://cecybon.com",
+    "identity": "cecy bon",
+    "publish": true,
+    "sectionText": "Colecci.n"
+  },
+  {
+    "id": "parea-restaurante",
+    "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+    "identity": "parea",
+    "publish": true,
+    "sectionText": "Comida sin prisa"
+  },
+  {
+    "id": "cafeto",
+    "url": "https://cafeto-cafe-cacao.vercel.app/",
+    "identity": "cafeto",
+    "publish": true,
+    "sectionText": "Men."
+  },
+  {
+    "id": "casa-bajio",
+    "url": "https://casa-bajio.vercel.app/",
+    "identity": "casa baj",
+    "publish": true,
+    "sectionText": "Men."
+  },
+  {
+    "id": "liberato",
+    "url": "https://technodanbocetos.vercel.app/liberato.html",
+    "identity": "liberato",
+    "publish": true,
+    "sectionText": "Coffee Bar"
+  },
+  {
+    "id": "el-vergel",
+    "url": "https://technodanbocetos.vercel.app/vergel.html",
+    "identity": "el vergel",
+    "publish": true,
+    "sectionText": "Lo que se antoja"
+  },
+  {
+    "id": "modabelle",
+    "url": "https://modabelle.mx/index.html",
+    "identity": "modabelle",
+    "publish": true,
+    "sectionText": "Cat.logo"
+  },
+  {
+    "id": "aesthetic-body",
+    "url": "https://aesthetic-body.vercel.app/",
+    "identity": "aesthetic body",
+    "publish": true,
+    "sectionText": "Servicios"
+  },
+  {
+    "id": "sazon-papatenco",
+    "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+    "identity": "saz.n papanteco",
+    "publish": true,
+    "sectionText": "Especialidades"
+  },
+  {
+    "id": "aloha-spa",
+    "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+    "identity": "aloha",
+    "publish": true,
+    "sectionText": "Experiencia"
+  },
+  {
+    "id": "fisioterapia-monarca",
+    "url": "https://fisioterapiamonarca.com",
+    "identity": "monarca",
+    "publish": true,
+    "sectionText": "Rehabilitaci.n"
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "id": "robut-ing",
+  "source": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+  "date": "2026-11-13T03:34:16.205Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:05.599Z",
+      "width": 1440,
+      "height": 900,
+      "score": 52,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:06.821Z",
+      "width": 1440,
+      "height": 2981,
+      "score": 35,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:08.019Z",
+      "width": 697,
+      "height": 56,
+      "score": 35,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:15.159Z",
+      "width": 390,
+      "height": 844,
+      "score": 21,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:05.599Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:05.599Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+      "date": "2026-11-13T03:34:05.599Z"
+    }
+  ],
+  "errors": [],
+  "editorialAssets": [
+    {
+      "file": "article-figure.webp",
+      "url": "https://revistapolitecnicaags.upa.edu.mx/wp-content/uploads/2026/08/V7128.pdf",
+      "date": "2026-11-13T03:34:16.205Z",
+      "source": "Página 2, figura 1. Recorte del PDF público renderizado a 135 dpi."
+    }
+  ]
+}

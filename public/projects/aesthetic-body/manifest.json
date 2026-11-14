@@ -1,0 +1,78 @@
+{
+  "id": "aesthetic-body",
+  "source": "https://aesthetic-body.vercel.app/",
+  "date": "2026-11-14T03:01:15.013Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:00:57.412Z",
+      "width": 1440,
+      "height": 900,
+      "score": 74,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:01:07.137Z",
+      "width": 1440,
+      "height": 7967,
+      "score": 25,
+      "brokenImages": 2,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:01:10.934Z",
+      "width": 1440,
+      "height": 1504,
+      "score": 43,
+      "brokenImages": 1,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:01:13.630Z",
+      "width": 390,
+      "height": 844,
+      "score": 48,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:00:57.412Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:00:57.412Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://aesthetic-body.vercel.app/",
+      "date": "2026-11-14T03:00:57.412Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

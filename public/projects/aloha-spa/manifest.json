@@ -1,0 +1,70 @@
+{
+  "id": "aloha-spa",
+  "source": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+  "date": "2026-11-14T03:01:38.858Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+      "date": "2026-11-14T03:01:29.014Z",
+      "width": 1440,
+      "height": 900,
+      "score": 61,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+      "date": "2026-11-14T03:01:35.114Z",
+      "width": 1440,
+      "height": 5402,
+      "score": 39,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+      "date": "2026-11-14T03:01:37.849Z",
+      "width": 390,
+      "height": 844,
+      "score": 26,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+      "date": "2026-11-14T03:01:29.014Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+      "date": "2026-11-14T03:01:29.014Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+      "date": "2026-11-14T03:01:29.014Z"
+    }
+  ],
+  "errors": [
+    "detail: Error: Sección no localizada"
+  ],
+  "requestFailures": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "bc-boutique-cuen",
+  "source": "https://www.bcboutiquecuenstore.com/",
+  "date": "2026-11-14T02:28:33.595Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:27:39.494Z",
+      "width": 1440,
+      "height": 900,
+      "score": 66,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:27:52.659Z",
+      "width": 1440,
+      "height": 12335,
+      "score": 57,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:28:00.357Z",
+      "width": 1440,
+      "height": 637,
+      "score": 60,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "catalog.webp",
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:28:01.014Z",
+      "width": 1440,
+      "height": 900,
+      "score": 44,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:28:32.163Z",
+      "width": 390,
+      "height": 844,
+      "score": 40,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:27:39.494Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:27:39.494Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "detail.webp"
+      ],
+      "url": "https://www.bcboutiquecuenstore.com/",
+      "date": "2026-11-14T02:28:00.357Z"
+    }
+  ],
+  "errors": [
+    "flow: TimeoutError: locator.waitFor: Timeout 14000ms exceeded."
+  ],
+  "requestFailures": []
+}

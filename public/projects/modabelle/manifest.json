@@ -1,0 +1,78 @@
+{
+  "id": "modabelle",
+  "source": "https://modabelle.mx/index.html",
+  "date": "2026-11-14T03:00:55.659Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:42.576Z",
+      "width": 1440,
+      "height": 900,
+      "score": 60,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:45.615Z",
+      "width": 1440,
+      "height": 6688,
+      "score": 53,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:50.574Z",
+      "width": 1280,
+      "height": 1323,
+      "score": 55,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:54.389Z",
+      "width": 390,
+      "height": 844,
+      "score": 37,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:42.576Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:42.576Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://modabelle.mx/index.html",
+      "date": "2026-11-14T03:00:42.576Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

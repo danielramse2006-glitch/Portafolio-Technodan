@@ -1,0 +1,78 @@
+{
+  "id": "el-vergel",
+  "source": "https://technodanbocetos.vercel.app/vergel.html",
+  "date": "2026-11-14T03:00:40.228Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:20.573Z",
+      "width": 1440,
+      "height": 900,
+      "score": 71,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:31.162Z",
+      "width": 1440,
+      "height": 9670,
+      "score": 58,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:37.569Z",
+      "width": 1440,
+      "height": 1027,
+      "score": 66,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:39.000Z",
+      "width": 390,
+      "height": 844,
+      "score": 40,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:20.573Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:20.573Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/vergel.html",
+      "date": "2026-11-14T03:00:20.573Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

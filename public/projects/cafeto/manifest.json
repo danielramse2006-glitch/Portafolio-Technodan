@@ -1,0 +1,78 @@
+{
+  "id": "cafeto",
+  "source": "https://cafeto-cafe-cacao.vercel.app/",
+  "date": "2026-11-14T02:59:41.019Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:23.527Z",
+      "width": 1440,
+      "height": 900,
+      "score": 70,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:30.249Z",
+      "width": 1440,
+      "height": 5581,
+      "score": 60,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:33.552Z",
+      "width": 1440,
+      "height": 488,
+      "score": 44,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:39.521Z",
+      "width": 390,
+      "height": 844,
+      "score": 45,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:23.527Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:23.527Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://cafeto-cafe-cacao.vercel.app/",
+      "date": "2026-11-14T02:59:23.527Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

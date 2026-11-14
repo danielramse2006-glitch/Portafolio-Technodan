@@ -1,0 +1,70 @@
+{
+  "id": "liberato",
+  "source": "https://technodanbocetos.vercel.app/liberato.html",
+  "date": "2026-11-14T03:02:39.598Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://technodanbocetos.vercel.app/liberato.html",
+      "date": "2026-11-14T03:02:22.359Z",
+      "width": 1440,
+      "height": 900,
+      "score": 73,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://technodanbocetos.vercel.app/liberato.html",
+      "date": "2026-11-14T03:02:32.135Z",
+      "width": 1440,
+      "height": 8178,
+      "score": 59,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://technodanbocetos.vercel.app/liberato.html",
+      "date": "2026-11-14T03:02:38.020Z",
+      "width": 390,
+      "height": 844,
+      "score": 48,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/liberato.html",
+      "date": "2026-11-14T03:02:22.359Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/liberato.html",
+      "date": "2026-11-14T03:02:22.359Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://technodanbocetos.vercel.app/liberato.html",
+      "date": "2026-11-14T03:02:22.359Z"
+    }
+  ],
+  "errors": [
+    "detail: Error: Sección no localizada"
+  ],
+  "requestFailures": []
+}

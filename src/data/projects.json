@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "cecy-bon-bakes",
+    "name": "Cecy Bon",
+    "category": "Páginas web",
+    "description": "Sitio editorial para una pâtisserie francesa en Reynosa.",
+    "type": "proyecto real",
+    "url": "https://cecybon.com",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Publicado y verificado",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación por concepto y colección"
+    ],
+    "tags": [],
+    "cover": {
+      "src": "/projects/cecy-bon-bakes/provided.webp",
+      "alt": "Captura del diseño web de Cecy Bon",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 730
+    },
+    "images": [
+      {
+        "src": "/projects/cecy-bon-bakes/provided.webp",
+        "alt": "Captura del diseño web de Cecy Bon",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 730
+      },
+      {
+        "src": "/projects/cecy-bon-bakes/desktop.webp",
+        "alt": "Escritorio de Cecy Bon",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/cecy-bon-bakes/full.webp",
+        "alt": "Página completa de Cecy Bon",
+        "label": "Página completa",
+        "width": 1076,
+        "height": 16000
+      },
+      {
+        "src": "/projects/cecy-bon-bakes/mobile.webp",
+        "alt": "Vista móvil de Cecy Bon",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/cecy-bon-bakes/desktop.webp",
+        "alt": "Escritorio de Cecy Bon",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/cecy-bon-bakes/full.webp",
+        "alt": "Página completa de Cecy Bon",
+        "label": "Página completa",
+        "width": 1076,
+        "height": 16000
+      },
+      {
+        "src": "/projects/cecy-bon-bakes/mobile.webp",
+        "alt": "Vista móvil de Cecy Bon",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Sitio editorial para una pâtisserie francesa en Reynosa.",
+    "need": "Presentar la identidad y colección de repostería.",
+    "solution": "Portada fotográfica, concepto y colección.",
+    "role": "Trabajo web presentado por Daniel. El alcance por módulo queda por documentar.",
+    "result": ""
+  },
+  {
+    "id": "parea-restaurante",
+    "name": "Parea Restaurante",
+    "category": "Páginas web",
+    "description": "Propuesta web para un restaurante con menú visual.",
+    "type": "prototipo",
+    "url": "https://technodanbocetos.vercel.app/parea/parea.html",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Menú visual",
+      "Secciones de momentos, celebraciones y ubicación"
+    ],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/parea-restaurante/provided.webp",
+      "alt": "Captura del diseño web de Parea Restaurante",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 614
+    },
+    "images": [
+      {
+        "src": "/projects/parea-restaurante/provided.webp",
+        "alt": "Captura del diseño web de Parea Restaurante",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 614
+      },
+      {
+        "src": "/projects/parea-restaurante/desktop.webp",
+        "alt": "Escritorio de Parea Restaurante",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/parea-restaurante/full.webp",
+        "alt": "Página completa de Parea Restaurante",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 12515
+      },
+      {
+        "src": "/projects/parea-restaurante/detail.webp",
+        "alt": "Sección destacada de Parea Restaurante",
+        "label": "Sección destacada",
+        "width": 1240,
+        "height": 1725
+      },
+      {
+        "src": "/projects/parea-restaurante/mobile.webp",
+        "alt": "Vista móvil de Parea Restaurante",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/parea-restaurante/desktop.webp",
+        "alt": "Escritorio de Parea Restaurante",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/parea-restaurante/full.webp",
+        "alt": "Página completa de Parea Restaurante",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 12515
+      },
+      {
+        "src": "/projects/parea-restaurante/detail.webp",
+        "alt": "Sección destacada de Parea Restaurante",
+        "label": "Sección destacada",
+        "width": 1240,
+        "height": 1725
+      },
+      {
+        "src": "/projects/parea-restaurante/mobile.webp",
+        "alt": "Vista móvil de Parea Restaurante",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Propuesta web para un restaurante con menú visual.",
+    "need": "Organizar la oferta por momentos del día.",
+    "solution": "Una página que alterna fotografías de platos con descripciones.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "cafeto",
+    "name": "Cafeto · Café + Cacao",
+    "category": "Páginas web",
+    "description": "Boceto para una cafetería de Reynosa. Proyecto en pláticas.",
+    "type": "prototipo",
+    "url": "https://cafeto-cafe-cacao.vercel.app/",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación de menú, promociones y galería"
+    ],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/cafeto/provided.webp",
+      "alt": "Captura del diseño web de Cafeto · Café + Cacao",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 676
+    },
+    "images": [
+      {
+        "src": "/projects/cafeto/provided.webp",
+        "alt": "Captura del diseño web de Cafeto · Café + Cacao",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 676
+      },
+      {
+        "src": "/projects/cafeto/desktop.webp",
+        "alt": "Escritorio de Cafeto · Café + Cacao",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/cafeto/full.webp",
+        "alt": "Página completa de Cafeto · Café + Cacao",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 5581
+      },
+      {
+        "src": "/projects/cafeto/detail.webp",
+        "alt": "Sección destacada de Cafeto · Café + Cacao",
+        "label": "Sección destacada",
+        "width": 1440,
+        "height": 488
+      },
+      {
+        "src": "/projects/cafeto/mobile.webp",
+        "alt": "Vista móvil de Cafeto · Café + Cacao",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/cafeto/desktop.webp",
+        "alt": "Escritorio de Cafeto · Café + Cacao",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/cafeto/full.webp",
+        "alt": "Página completa de Cafeto · Café + Cacao",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 5581
+      },
+      {
+        "src": "/projects/cafeto/detail.webp",
+        "alt": "Sección destacada de Cafeto · Café + Cacao",
+        "label": "Sección destacada",
+        "width": 1440,
+        "height": 488
+      },
+      {
+        "src": "/projects/cafeto/mobile.webp",
+        "alt": "Vista móvil de Cafeto · Café + Cacao",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Boceto para una cafetería de Reynosa. Proyecto en pláticas.",
+    "need": "Presentar café, brunch y bebidas en un recorrido fácil de consultar.",
+    "solution": "La propuesta reúne menú, promociones y una galería.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "bakers",
+    "name": "Bakers",
+    "category": "Páginas web",
+    "description": "Diseño web editorial para una panadería artesanal de Reynosa.",
+    "type": "prototipo",
+    "url": null,
+    "links": [],
+    "evidence": "Daniel aportó la captura del diseño. Su URL y estado de lanzamiento quedan por confirmar.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación visible de selección y sucursales"
+    ],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/bakers/provided.webp",
+      "alt": "Captura del diseño web de Bakers",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 652
+    },
+    "images": [
+      {
+        "src": "/projects/bakers/provided.webp",
+        "alt": "Captura del diseño web de Bakers",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 652
+      }
+    ],
+    "additionalImages": [],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Diseño web editorial para una panadería artesanal de Reynosa.",
+    "need": "Presentar los productos y las sucursales de la marca.",
+    "solution": "La portada combina tipografía de gran formato y fotografía de producto.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "liberato",
+    "name": "Liberato Eatery",
+    "category": "Páginas web",
+    "description": "Propuesta de sitio para un concepto de café, brunch y panadería.",
+    "type": "prototipo",
+    "url": "https://technodanbocetos.vercel.app/liberato.html",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Secciones de brunch, coffee bar y eventos"
+    ],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/liberato/provided.webp",
+      "alt": "Captura del diseño web de Liberato Eatery",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 661
+    },
+    "images": [
+      {
+        "src": "/projects/liberato/provided.webp",
+        "alt": "Captura del diseño web de Liberato Eatery",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 661
+      },
+      {
+        "src": "/projects/liberato/desktop.webp",
+        "alt": "Escritorio de Liberato Eatery",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/liberato/full.webp",
+        "alt": "Página completa de Liberato Eatery",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 8178
+      },
+      {
+        "src": "/projects/liberato/mobile.webp",
+        "alt": "Vista móvil de Liberato Eatery",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/liberato/desktop.webp",
+        "alt": "Escritorio de Liberato Eatery",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/liberato/full.webp",
+        "alt": "Página completa de Liberato Eatery",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 8178
+      },
+      {
+        "src": "/projects/liberato/mobile.webp",
+        "alt": "Vista móvil de Liberato Eatery",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Propuesta de sitio para un concepto de café, brunch y panadería.",
+    "need": "Reunir la oferta gastronómica y de eventos en un solo espacio.",
+    "solution": "Portada fotográfica con accesos a brunch, coffee bar, eventos y galería.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "el-vergel",
+    "name": "El Vergel Restaurant",
+    "category": "Páginas web",
+    "description": "Propuesta gastronómica con una selección visual de desayunos y bebidas.",
+    "type": "prototipo",
+    "url": "https://technodanbocetos.vercel.app/vergel.html",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Galería fotográfica",
+      "Navegación por desayunos, bebidas e información de visita"
+    ],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/el-vergel/provided.webp",
+      "alt": "Captura del diseño web de El Vergel Restaurant",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 688
+    },
+    "images": [
+      {
+        "src": "/projects/el-vergel/provided.webp",
+        "alt": "Captura del diseño web de El Vergel Restaurant",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 688
+      },
+      {
+        "src": "/projects/el-vergel/desktop.webp",
+        "alt": "Escritorio de El Vergel Restaurant",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/el-vergel/full.webp",
+        "alt": "Página completa de El Vergel Restaurant",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 9670
+      },
+      {
+        "src": "/projects/el-vergel/detail.webp",
+        "alt": "Sección destacada de El Vergel Restaurant",
+        "label": "Sección destacada",
+        "width": 1440,
+        "height": 1027
+      },
+      {
+        "src": "/projects/el-vergel/mobile.webp",
+        "alt": "Vista móvil de El Vergel Restaurant",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/el-vergel/desktop.webp",
+        "alt": "Escritorio de El Vergel Restaurant",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/el-vergel/full.webp",
+        "alt": "Página completa de El Vergel Restaurant",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 9670
+      },
+      {
+        "src": "/projects/el-vergel/detail.webp",
+        "alt": "Sección destacada de El Vergel Restaurant",
+        "label": "Sección destacada",
+        "width": 1440,
+        "height": 1027
+      },
+      {
+        "src": "/projects/el-vergel/mobile.webp",
+        "alt": "Vista móvil de El Vergel Restaurant",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Propuesta gastronómica con una selección visual de desayunos y bebidas.",
+    "need": "Mostrar los platillos y facilitar la consulta de la ubicación.",
+    "solution": "Una galería editorial acompaña la navegación por desayunos, bebidas y visita.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "modabelle",
+    "name": "ModaBelle MX",
+    "category": "E-commerce",
+    "description": "Tienda web de maquillaje, lotes y skincare coreano.",
+    "type": "proyecto real",
+    "url": "https://modabelle.mx/index.html",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Publicado y verificado",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación de catálogo y referencias",
+      "Accesos visibles a búsqueda, cuenta y carrito"
+    ],
+    "tags": [],
+    "cover": {
+      "src": "/projects/modabelle/provided.webp",
+      "alt": "Captura del diseño web de ModaBelle MX",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 697
+    },
+    "images": [
+      {
+        "src": "/projects/modabelle/provided.webp",
+        "alt": "Captura del diseño web de ModaBelle MX",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 697
+      },
+      {
+        "src": "/projects/modabelle/desktop.webp",
+        "alt": "Escritorio de ModaBelle MX",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/modabelle/full.webp",
+        "alt": "Página completa de ModaBelle MX",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 6688
+      },
+      {
+        "src": "/projects/modabelle/detail.webp",
+        "alt": "Sección destacada de ModaBelle MX",
+        "label": "Sección destacada",
+        "width": 1280,
+        "height": 1323
+      },
+      {
+        "src": "/projects/modabelle/mobile.webp",
+        "alt": "Vista móvil de ModaBelle MX",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/modabelle/desktop.webp",
+        "alt": "Escritorio de ModaBelle MX",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/modabelle/full.webp",
+        "alt": "Página completa de ModaBelle MX",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 6688
+      },
+      {
+        "src": "/projects/modabelle/detail.webp",
+        "alt": "Sección destacada de ModaBelle MX",
+        "label": "Sección destacada",
+        "width": 1280,
+        "height": 1323
+      },
+      {
+        "src": "/projects/modabelle/mobile.webp",
+        "alt": "Vista móvil de ModaBelle MX",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Tienda web de maquillaje, lotes y skincare coreano.",
+    "need": "Organizar la selección de productos y facilitar su exploración.",
+    "solution": "La versión identificada en /index.html reúne una portada comercial y accesos al catálogo y referencias.",
+    "role": "Trabajo web presentado por Daniel. El alcance por módulo queda por documentar.",
+    "result": ""
+  },
+  {
+    "id": "aesthetic-body",
+    "name": "Aesthetic Body Spa",
+    "category": "Páginas web",
+    "description": "Página de presentación de servicios estéticos en Reynosa.",
+    "type": "prototipo",
+    "url": "https://aesthetic-body.vercel.app/",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación por servicios, ubicación y contacto",
+      "Acceso visible para citas"
+    ],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/aesthetic-body/provided.webp",
+      "alt": "Captura del diseño web de Aesthetic Body Spa",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 682
+    },
+    "images": [
+      {
+        "src": "/projects/aesthetic-body/provided.webp",
+        "alt": "Captura del diseño web de Aesthetic Body Spa",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 682
+      }
+    ],
+    "additionalImages": [],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Página de presentación de servicios estéticos en Reynosa.",
+    "need": "Explicar la oferta y ofrecer un acceso de contacto.",
+    "solution": "La interfaz organiza servicios, ubicación y contacto, con un botón para citas.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "sazon-papatenco",
+    "name": "El Sazón Papanteco",
+    "category": "Páginas web",
+    "description": "Menú digital para un restaurante de cocina papanteca.",
+    "type": "proyecto real",
+    "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Publicado y verificado",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Menú de especialidades",
+      "Acceso visible para pedidos"
+    ],
+    "tags": [],
+    "cover": {
+      "src": "/projects/sazon-papatenco/provided.webp",
+      "alt": "Captura del diseño web de El Sazón Papanteco",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 690
+    },
+    "images": [
+      {
+        "src": "/projects/sazon-papatenco/provided.webp",
+        "alt": "Captura del diseño web de El Sazón Papanteco",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 690
+      },
+      {
+        "src": "/projects/sazon-papatenco/desktop.webp",
+        "alt": "Escritorio de El Sazón Papanteco",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/sazon-papatenco/mobile.webp",
+        "alt": "Vista móvil de El Sazón Papanteco",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/sazon-papatenco/desktop.webp",
+        "alt": "Escritorio de El Sazón Papanteco",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/sazon-papatenco/mobile.webp",
+        "alt": "Vista móvil de El Sazón Papanteco",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Menú digital para un restaurante de cocina papanteca.",
+    "need": "Facilitar la consulta de especialidades desde el teléfono.",
+    "solution": "El menú abre con la identidad del restaurante y ofrece un acceso visible para pedidos.",
+    "role": "Trabajo web presentado por Daniel. El alcance por módulo queda por documentar.",
+    "result": ""
+  },
+  {
+    "id": "aloha-spa",
+    "name": "Aloha Spa",
+    "category": "Páginas web",
+    "description": "Sitio de presentación para un spa de Reynosa.",
+    "type": "proyecto real",
+    "url": "https://danielramse2006-glitch.github.io/Aloha-SPA/",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Publicado y verificado",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación por experiencia, láser y sedes",
+      "Accesos visibles a servicios y promociones"
+    ],
+    "tags": [],
+    "cover": {
+      "src": "/projects/aloha-spa/provided.webp",
+      "alt": "Captura del diseño web de Aloha Spa",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 684
+    },
+    "images": [
+      {
+        "src": "/projects/aloha-spa/provided.webp",
+        "alt": "Captura del diseño web de Aloha Spa",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 684
+      },
+      {
+        "src": "/projects/aloha-spa/desktop.webp",
+        "alt": "Escritorio de Aloha Spa",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/aloha-spa/full.webp",
+        "alt": "Página completa de Aloha Spa",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 5402
+      },
+      {
+        "src": "/projects/aloha-spa/mobile.webp",
+        "alt": "Vista móvil de Aloha Spa",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/aloha-spa/desktop.webp",
+        "alt": "Escritorio de Aloha Spa",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/aloha-spa/full.webp",
+        "alt": "Página completa de Aloha Spa",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 5402
+      },
+      {
+        "src": "/projects/aloha-spa/mobile.webp",
+        "alt": "Vista móvil de Aloha Spa",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Sitio de presentación para un spa de Reynosa.",
+    "need": "Dar acceso a servicios, promociones y sedes.",
+    "solution": "El diseño combina una portada editorial con navegación por experiencia, láser y sedes.",
+    "role": "Trabajo web presentado por Daniel. El alcance por módulo queda por documentar.",
+    "result": ""
+  },
+  {
+    "id": "fisioterapia-monarca",
+    "name": "Monarca Fisio & Rehab",
+    "category": "Páginas web",
+    "description": "Sitio de presentación de fisioterapia y rehabilitación en Reynosa.",
+    "type": "proyecto real",
+    "url": "https://fisioterapiamonarca.com",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Publicado y verificado",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Navegación por servicios",
+      "Acceso visible a contacto para citas"
+    ],
+    "tags": [],
+    "cover": {
+      "src": "/projects/fisioterapia-monarca/provided.webp",
+      "alt": "Captura del diseño web de Monarca Fisio & Rehab",
+      "label": "Captura aportada por Daniel",
+      "width": 1440,
+      "height": 690
+    },
+    "images": [
+      {
+        "src": "/projects/fisioterapia-monarca/provided.webp",
+        "alt": "Captura del diseño web de Monarca Fisio & Rehab",
+        "label": "Captura aportada por Daniel",
+        "width": 1440,
+        "height": 690
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/desktop.webp",
+        "alt": "Escritorio de Monarca Fisio & Rehab",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/full.webp",
+        "alt": "Página completa de Monarca Fisio & Rehab",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 10094
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/detail.webp",
+        "alt": "Sección destacada de Monarca Fisio & Rehab",
+        "label": "Sección destacada",
+        "width": 1440,
+        "height": 1099
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/mobile.webp",
+        "alt": "Vista móvil de Monarca Fisio & Rehab",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/fisioterapia-monarca/desktop.webp",
+        "alt": "Escritorio de Monarca Fisio & Rehab",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/full.webp",
+        "alt": "Página completa de Monarca Fisio & Rehab",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 10094
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/detail.webp",
+        "alt": "Sección destacada de Monarca Fisio & Rehab",
+        "label": "Sección destacada",
+        "width": 1440,
+        "height": 1099
+      },
+      {
+        "src": "/projects/fisioterapia-monarca/mobile.webp",
+        "alt": "Vista móvil de Monarca Fisio & Rehab",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Sitio de presentación de fisioterapia y rehabilitación en Reynosa.",
+    "need": "Organizar los servicios y facilitar el contacto para citas.",
+    "solution": "La interfaz reúne fisioterapia, rehabilitación, quiropráctica, masajes y un acceso a WhatsApp.",
+    "role": "Trabajo web presentado por Daniel. El alcance por módulo queda por documentar.",
+    "result": ""
+  },
+  {
+    "id": "casa-bajio",
+    "name": "Casa Bajío",
+    "category": "Páginas web",
+    "description": "Sitio de presentación de cocina mexicana.",
+    "type": "prototipo",
+    "url": "https://casa-bajio.vercel.app/",
+    "links": [],
+    "evidence": "Daniel aportó la URL como parte de su portafolio. Se revisó la versión pública indicada.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "tags": [
+      "Bocetos"
+    ],
+    "cover": {
+      "src": "/projects/casa-bajio/desktop.webp",
+      "alt": "Escritorio de Casa Bajío",
+      "label": "Escritorio",
+      "width": 1440,
+      "height": 900
+    },
+    "images": [
+      {
+        "src": "/projects/casa-bajio/desktop.webp",
+        "alt": "Escritorio de Casa Bajío",
+        "label": "Escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/casa-bajio/full.webp",
+        "alt": "Página completa de Casa Bajío",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 10581
+      },
+      {
+        "src": "/projects/casa-bajio/detail.webp",
+        "alt": "Sección destacada de Casa Bajío",
+        "label": "Sección destacada",
+        "width": 1180,
+        "height": 2411
+      },
+      {
+        "src": "/projects/casa-bajio/mobile.webp",
+        "alt": "Vista móvil de Casa Bajío",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "additionalImages": [
+      {
+        "src": "/projects/casa-bajio/full.webp",
+        "alt": "Página completa de Casa Bajío",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 10581
+      },
+      {
+        "src": "/projects/casa-bajio/detail.webp",
+        "alt": "Sección destacada de Casa Bajío",
+        "label": "Sección destacada",
+        "width": 1180,
+        "height": 2411
+      },
+      {
+        "src": "/projects/casa-bajio/mobile.webp",
+        "alt": "Vista móvil de Casa Bajío",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-13",
+    "restrictions": "Solo material público o aportado para el portafolio.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Sitio de presentación de cocina mexicana.",
+    "need": "Presentar la propuesta gastronómica y facilitar la consulta del sitio.",
+    "solution": "Página pública de Casa Bajío con identidad de cocina mexicana.",
+    "role": "Propuesta web presentada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "quality-master-tracker",
+    "name": "Quality Master Tracker",
+    "category": "Sistemas",
+    "description": "Seguimiento de procesos de calidad para un entorno de manufactura.",
+    "type": "experiencia laboral",
+    "url": null,
+    "links": [],
+    "evidence": "La imagen interna aportada por Daniel permite corroborar los accesos a los módulos. El código y el entorno interno quedan fuera de la revisión.",
+    "status": "Confidencial",
+    "technologies": [],
+    "reportedTechnologies": [
+      "Python",
+      "Flask",
+      "SQL Server",
+      "pandas",
+      "openpyxl",
+      "pyodbc"
+    ],
+    "features": [
+      "Accesos visibles en la interfaz a PPAP, calibraciones, desviaciones y quejas"
+    ],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Solo demostración con datos sintéticos.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Prácticas profesionales en el área de Calidad de Standard Motor Products.",
+    "need": "Dar visibilidad al seguimiento de procesos de calidad y sus pendientes.",
+    "solution": "El alcance reportado incluye importación de datos y paneles de seguimiento de varias líneas de trabajo.",
+    "role": "Desarrollo durante las prácticas profesionales en el área de Calidad, según la información facilitada.",
+    "result": "",
+    "reportedFeatures": [
+      "Importación de datos y paneles de seguimiento"
+    ]
+  },
+  {
+    "id": "inventario-inge-tel",
+    "name": "Control de inventario",
+    "category": "Sistemas",
+    "description": "Gestión de materiales e inventarios para operaciones de INGE-TEL.",
+    "type": "experiencia laboral",
+    "url": null,
+    "links": [],
+    "evidence": "Alcance y stack reportados en el encargo. Implementación pendiente de revisión.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [
+      "Python",
+      "Flask",
+      "SQL Server",
+      "Autenticación Windows",
+      "Excel"
+    ],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Solo ilustración editorial. Requiere material aprobado para mostrar la interfaz.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Operaciones empresariales de INGE-TEL.",
+    "need": "Centralizar el control de materiales y existencias.",
+    "solution": "Sistema administrativo con importación de Excel reportada. Productos, movimientos, usuarios, reportes e historial requieren corroboración.",
+    "role": "Trabajo de desarrollo reportado por Daniel. Alcance exacto pendiente de corroboración.",
+    "result": ""
+  },
+  {
+    "id": "bc-boutique-cuen",
+    "name": "BC Boutique Cuen",
+    "category": "E-commerce",
+    "description": "Una tienda de moda urbana con catálogo, tallas y carrito.",
+    "type": "proyecto real",
+    "url": "https://www.bcboutiquecuenstore.com/",
+    "links": [
+      "https://bcboutiquecuenstore.com/",
+      "https://www.bcboutiquecuen.com/"
+    ],
+    "evidence": "El dominio store fue indicado por Daniel como proyecto propio. Se comprobó la tienda pública en www. El alcance exacto de la contribución y la relación con el segundo dominio quedan pendientes.",
+    "status": "Publicado y verificado",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Catálogo y filtros de productos",
+      "Ficha con selección de talla",
+      "Interfaz pública de carrito",
+      "Interfaz de armado de combos"
+    ],
+    "images": [
+      {
+        "src": "/projects/bc-boutique-cuen/desktop.webp",
+        "alt": "BC Boutique Cuen · Vista de escritorio",
+        "label": "Vista de escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/full.webp",
+        "alt": "BC Boutique Cuen · Página completa",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 12335
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/detail.webp",
+        "alt": "BC Boutique Cuen · Detalle",
+        "label": "BC Street Edit",
+        "width": 1440,
+        "height": 637
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/catalog.webp",
+        "alt": "Vitrina de catálogo en BC Boutique Cuen",
+        "label": "Catálogo",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/mobile.webp",
+        "alt": "BC Boutique Cuen · Vista móvil",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "cover": {
+      "src": "/projects/bc-boutique-cuen/detail.webp",
+      "alt": "Sección editorial BC Street Edit con fotografías de la tienda y sus productos",
+      "label": "Captura del sitio público",
+      "width": 1440,
+      "height": 637
+    },
+    "additionalImages": [
+      {
+        "src": "/projects/bc-boutique-cuen/desktop.webp",
+        "alt": "BC Boutique Cuen · Vista de escritorio",
+        "label": "Vista de escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/full.webp",
+        "alt": "BC Boutique Cuen · Página completa",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 12335
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/catalog.webp",
+        "alt": "Vitrina de catálogo en BC Boutique Cuen",
+        "label": "Catálogo",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/bc-boutique-cuen/mobile.webp",
+        "alt": "BC Boutique Cuen · Vista móvil",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Solo superficies públicas de la tienda. Gestión interna y transacciones fuera de la revisión.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Tienda de moda urbana en Mexicali con tenis, ropa y accesorios.",
+    "need": "Presentar el catálogo y facilitar la exploración por categoría, producto y talla.",
+    "solution": "La versión pública reúne vitrinas de productos, filtros y una interfaz de carrito.",
+    "role": "Participación reportada por Daniel. Alcance por módulo pendiente de corroboración.",
+    "result": "La tienda ofrece una vitrina pública y un recorrido de exploración de productos."
+  },
+  {
+    "id": "inge-tel-control-acceso",
+    "name": "Integración de control de acceso",
+    "category": "Automatización",
+    "description": "Integración de cámaras IP y controladores en un entorno industrial.",
+    "type": "experiencia laboral",
+    "url": null,
+    "links": [],
+    "evidence": "Hikvision y dos desarrollos ESP32 mencionados en el encargo. Pendiente corroborar relación, alcance y operación.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [
+      "Hikvision",
+      "ESP32"
+    ],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Ilustración conceptual. Sin topología operativa, parámetros, identificadores ni datos biométricos.",
+    "confidence": "media",
+    "visible": true,
+    "featured": true,
+    "context": "Iniciativa de automatización industrial en INGE-TEL.",
+    "need": "Integrar equipos de campo con software de procesamiento y control.",
+    "solution": "El alcance reportado abarca cámaras IP, procesamiento y controladores. La relación entre la integración Hikvision y las dos iteraciones ESP32 está pendiente de corroborar.",
+    "role": "Participación en integraciones reportada por Daniel. Alcance de cada iteración pendiente de revisión.",
+    "result": "",
+    "tags": [
+      "IoT"
+    ]
+  },
+  {
+    "id": "robut-ing",
+    "name": "ROBUT-ING",
+    "category": "IoT",
+    "description": "Robótica educativa de bajo costo con control web local.",
+    "type": "investigación",
+    "url": "https://revistapolitecnicaags.upa.edu.mx/volumen-7/",
+    "links": [
+      "https://revistapolitecnicaags.upa.edu.mx/wp-content/uploads/2026/08/V7128.pdf"
+    ],
+    "evidence": "El artículo de la Revista Politécnica de Aguascalientes acredita a Daniel Alejandro Ramos Valdez como coautor.",
+    "status": "Publicado y verificado",
+    "technologies": [
+      "ESP32",
+      "ESP32-CAM",
+      "PCA9685",
+      "Wi-Fi local"
+    ],
+    "reportedTechnologies": [],
+    "features": [
+      "Control web sin Internet",
+      "19 ejes actuados y garra",
+      "Video local, sensor ultrasónico, pantalla LCD y audio"
+    ],
+    "images": [
+      {
+        "src": "/projects/robut-ing/article-figure.webp",
+        "alt": "Prototipo bípedo ROBUT-ING y distribución de sus articulaciones en la figura del artículo",
+        "label": "Figura 1 del artículo",
+        "width": 443,
+        "height": 331
+      },
+      {
+        "src": "/projects/robut-ing/desktop.webp",
+        "alt": "ROBUT-ING · Vista de escritorio",
+        "label": "Vista de escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/robut-ing/full.webp",
+        "alt": "ROBUT-ING · Página completa",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 2981
+      },
+      {
+        "src": "/projects/robut-ing/detail.webp",
+        "alt": "ROBUT-ING · Detalle",
+        "label": "Detalle",
+        "width": 697,
+        "height": 56
+      },
+      {
+        "src": "/projects/robut-ing/mobile.webp",
+        "alt": "ROBUT-ING · Vista móvil",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "cover": {
+      "src": "/projects/robut-ing/article-figure.webp",
+      "alt": "Prototipo bípedo ROBUT-ING y distribución de sus articulaciones en la figura del artículo",
+      "label": "Figura 1 del artículo",
+      "width": 443,
+      "height": 331
+    },
+    "additionalImages": [
+      {
+        "src": "/projects/robut-ing/desktop.webp",
+        "alt": "ROBUT-ING · Vista de escritorio",
+        "label": "Vista de escritorio",
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "src": "/projects/robut-ing/full.webp",
+        "alt": "ROBUT-ING · Página completa",
+        "label": "Página completa",
+        "width": 1440,
+        "height": 2981
+      },
+      {
+        "src": "/projects/robut-ing/detail.webp",
+        "alt": "ROBUT-ING · Detalle",
+        "label": "Detalle",
+        "width": 697,
+        "height": 56
+      },
+      {
+        "src": "/projects/robut-ing/mobile.webp",
+        "alt": "ROBUT-ING · Vista móvil",
+        "label": "Vista móvil",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Usar evidencia pública y excluir datos de participantes.",
+    "confidence": "alta",
+    "visible": true,
+    "featured": true,
+    "context": "Investigación sobre robótica educativa en secundarias rurales de Río Bravo, Tamaulipas.",
+    "need": "Acercar la robótica a escuelas con conectividad y recursos limitados.",
+    "solution": "Tres prototipos bípedos con red inalámbrica propia. El ESP32 controla actuadores mediante PCA9685 y salidas directas. Un módulo ESP32-CAM independiente transmite video.",
+    "role": "Coautor del artículo y miembro del equipo del proyecto. La publicación acredita la autoría colectiva.",
+    "result": "La evaluación documentó la operación como recurso demostrativo y una autonomía aproximada de 90 minutos tras ajustar la alimentación."
+  },
+  {
+    "id": "ab-premiere",
+    "name": "AB Premiere",
+    "category": "Sistemas",
+    "description": "Gestión de socios, visitas y operación para una barbería.",
+    "type": "proyecto real",
+    "url": null,
+    "links": [],
+    "evidence": "Rutas y funciones verificadas por inspección de app.py y README del checkout local AB Premier/wallet-pilot. Operación en producción pendiente de comprobar.",
+    "status": "Pendiente de confirmar",
+    "technologies": [
+      "Python",
+      "Flask",
+      "SQLite",
+      "Waitress",
+      "pywebview"
+    ],
+    "reportedTechnologies": [],
+    "features": [
+      "Registro y check-in de socios",
+      "Prevención de visitas duplicadas por día",
+      "Historial, visitas manuales y métricas",
+      "Usuarios, roles y auditoría",
+      "Exportación CSV/XLSX y respaldos"
+    ],
+    "images": [
+      {
+        "src": "/projects/ab-premiere/provided.webp",
+        "alt": "Pantalla de bienvenida y registro de visitas de AB Premiere",
+        "label": "Captura aportada por Daniel",
+        "width": 1480,
+        "height": 836
+      }
+    ],
+    "cover": {
+      "src": "/projects/ab-premiere/provided.webp",
+      "alt": "Pantalla de bienvenida y registro de visitas de AB Premiere",
+      "label": "Captura aportada por Daniel",
+      "width": 1480,
+      "height": 836
+    },
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Mostrar la pantalla de bienvenida aportada. Excluir fotos de socios, bases de clientes, credenciales y registros de operaciones.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Herramienta local de gestión de socios para barbería. El repositorio usa el nombre AB Premiere.",
+    "need": "Registrar y consultar visitas sin dispersar el historial.",
+    "solution": "Portal de registro y check-in con panel administrativo. Wallet y QR se presentan como piloto en desarrollo, con activación pendiente de validar.",
+    "role": "Proyecto relacionado con Daniel según el encargo. Funciones de la aplicación local corroboradas en código.",
+    "result": ""
+  },
+  {
+    "id": "educavr",
+    "name": "EducaVR",
+    "category": "Bocetos",
+    "description": "Demostración educativa de realidad virtual basada en web.",
+    "type": "demo",
+    "url": null,
+    "links": [],
+    "evidence": "Proyecto educativo y A-Frame reportados en el encargo. Pendiente localizar demo o código.",
+    "status": "Boceto / demo",
+    "technologies": [],
+    "reportedTechnologies": [
+      "A-Frame"
+    ],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Ilustración editorial hasta disponer de un despliegue corroborado.",
+    "confidence": "media",
+    "visible": true,
+    "featured": false,
+    "context": "Demostración educativa de realidad virtual.",
+    "need": "Explorar una forma inmersiva de presentar contenido educativo.",
+    "solution": "Experiencia web con A-Frame según el alcance reportado.",
+    "role": "Demostración educativa mencionada por Daniel.",
+    "result": ""
+  },
+  {
+    "id": "parea",
+    "name": "Parea / Pareto",
+    "category": "E-commerce",
+    "description": "La tienda pública presenta trajes de baño, ropa de playa y accesorios.",
+    "type": "proyecto real",
+    "url": "https://pareamx.com/",
+    "links": [],
+    "evidence": "Tienda observable. Pendientes versión histórica y vínculo con Daniel.",
+    "status": "Pendiente de confirmar",
+    "technologies": [
+      "Shopify"
+    ],
+    "reportedTechnologies": [],
+    "features": [
+      "Colecciones",
+      "Búsqueda",
+      "Fichas públicas de producto"
+    ],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "cafetto-mexico",
+    "name": "Cafetto México",
+    "category": "E-commerce",
+    "description": "Sitio comercial y tienda de insumos para limpiar equipos de café.",
+    "type": "proyecto real",
+    "url": "https://cafettomx.com/",
+    "links": [
+      "https://tiendaenlinea.cafettomx.com/"
+    ],
+    "evidence": "Dos dominios observados. El sitio principal remite a VAZGUI. Participación de Daniel sin corroborar.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [
+      "Categorías de producto",
+      "Catálogo público"
+    ],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "caffeto-vercel",
+    "name": "Caffeto — candidato Vercel",
+    "category": "Bocetos",
+    "description": "Sitio de café de especialidad, distinto de la línea de limpieza Cafetto México.",
+    "type": "prototipo",
+    "url": "https://caffeto.vercel.app/",
+    "links": [],
+    "evidence": "Marca y contenido observados. La similitud del nombre no acredita autoría.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "lerman-boys",
+    "name": "Lerman Boys",
+    "category": "Páginas web",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "proyecto real",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "atonnof",
+    "name": "Atonnof / Atonof",
+    "category": "Bocetos",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "prototipo",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "paz-tamaulipas",
+    "name": "PAZ Tamaulipas y propuestas regionales",
+    "category": "Bocetos",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "prototipo",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "digi-sneakers",
+    "name": "Digi Sneakers",
+    "category": "E-commerce",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "proyecto real",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "dg-store",
+    "name": "DG Store",
+    "category": "E-commerce",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "proyecto real",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "charlis-for-men",
+    "name": "Charli’s for Men",
+    "category": "Páginas web",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "proyecto real",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  },
+  {
+    "id": "cafeteria-san-pedro",
+    "name": "Cafetería San Pedro",
+    "category": "Páginas web",
+    "description": "Ficha de investigación a partir del nombre proporcionado.",
+    "type": "proyecto real",
+    "url": null,
+    "links": [],
+    "evidence": "Mención en el encargo. Pendiente de corroboración.",
+    "status": "Pendiente de confirmar",
+    "technologies": [],
+    "reportedTechnologies": [],
+    "features": [],
+    "images": [],
+    "cover": null,
+    "additionalImages": [],
+    "reviewedAt": "2026-11-12",
+    "restrictions": "Requiere evidencia de participación antes de mostrarse como trabajo propio.",
+    "confidence": "baja",
+    "visible": false,
+    "featured": false,
+    "context": "",
+    "need": "",
+    "solution": "",
+    "role": "",
+    "result": ""
+  }
+]

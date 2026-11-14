@@ -1,0 +1,78 @@
+{
+  "id": "fisioterapia-monarca",
+  "source": "https://fisioterapiamonarca.com",
+  "date": "2026-11-14T03:01:57.564Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:41.173Z",
+      "width": 1440,
+      "height": 900,
+      "score": 52,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:45.414Z",
+      "width": 1440,
+      "height": 10094,
+      "score": 49,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "detail.webp",
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:52.790Z",
+      "width": 1440,
+      "height": 1099,
+      "score": 51,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:56.274Z",
+      "width": 390,
+      "height": 844,
+      "score": 26,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:41.173Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:41.173Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://www.fisioterapiamonarca.com/",
+      "date": "2026-11-14T03:01:41.173Z"
+    }
+  ],
+  "errors": [],
+  "requestFailures": []
+}

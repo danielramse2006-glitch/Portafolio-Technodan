@@ -1,0 +1,70 @@
+{
+  "id": "cecy-bon-bakes",
+  "source": "https://cecybon.com",
+  "date": "2026-11-14T03:02:21.308Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://cecybon.com/",
+      "date": "2026-11-14T03:01:48.976Z",
+      "width": 1440,
+      "height": 900,
+      "score": 69,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://cecybon.com/",
+      "date": "2026-11-14T03:02:06.523Z",
+      "width": 1076,
+      "height": 16000,
+      "score": 59,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://cecybon.com/",
+      "date": "2026-11-14T03:02:19.876Z",
+      "width": 390,
+      "height": 844,
+      "score": 44,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://cecybon.com/",
+      "date": "2026-11-14T03:01:48.976Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://cecybon.com/",
+      "date": "2026-11-14T03:01:48.976Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://cecybon.com/",
+      "date": "2026-11-14T03:01:48.976Z"
+    }
+  ],
+  "errors": [
+    "detail: Error: Sección no localizada"
+  ],
+  "requestFailures": []
+}

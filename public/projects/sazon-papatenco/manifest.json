@@ -1,0 +1,70 @@
+{
+  "id": "sazon-papatenco",
+  "source": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+  "date": "2026-11-14T03:01:27.761Z",
+  "status": 200,
+  "candidate": "desktop.webp",
+  "shots": [
+    {
+      "file": "desktop.webp",
+      "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+      "date": "2026-11-14T03:01:16.625Z",
+      "width": 1440,
+      "height": 900,
+      "score": 70,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    },
+    {
+      "file": "full.webp",
+      "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+      "date": "2026-11-14T03:01:20.125Z",
+      "width": 1440,
+      "height": 8549,
+      "score": -44,
+      "brokenImages": 7,
+      "lowContrastImage": false
+    },
+    {
+      "file": "mobile.webp",
+      "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+      "date": "2026-11-14T03:01:26.271Z",
+      "width": 390,
+      "height": 844,
+      "score": 46,
+      "brokenImages": 0,
+      "lowContrastImage": false
+    }
+  ],
+  "derived": [
+    {
+      "file": "browser.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+      "date": "2026-11-14T03:01:16.625Z"
+    },
+    {
+      "file": "composition.webp",
+      "sources": [
+        "desktop.webp",
+        "mobile.webp"
+      ],
+      "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+      "date": "2026-11-14T03:01:16.625Z"
+    },
+    {
+      "file": "thumbnail.webp",
+      "sources": [
+        "desktop.webp"
+      ],
+      "url": "https://danielramse2006-glitch.github.io/menu-sazon-papatenco/",
+      "date": "2026-11-14T03:01:16.625Z"
+    }
+  ],
+  "errors": [
+    "detail: Error: Sección no localizada"
+  ],
+  "requestFailures": []
+}
